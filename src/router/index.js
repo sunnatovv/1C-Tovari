@@ -35,16 +35,16 @@ const routes = [
     name: "products",
     component: () => import("../pages/Products.vue"),
   },
-  {
-    path: "/base",
-    name: "base",
-    component: () => import("../pages/base.vue"),
-  },
-  {
-    path: "/about",
-    name: "about",
-    component: () => import("../pages/about.vue"),
-  },
+  // {
+  //   path: "/base",
+  //   name: "base",
+  //   component: () => import("../pages/base.vue"),
+  // },
+  // {
+  //   path: "/about",
+  //   name: "about",
+  //   component: () => import("../pages/about.vue"),
+  // },
   // Not Found sahifasi
   {
     path: "/:pathMatch(.*)*",
