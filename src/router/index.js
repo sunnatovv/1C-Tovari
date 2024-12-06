@@ -38,7 +38,7 @@ const routes = [
   {
     path: "/base",
     name: "base",
-    component: () => import("../pages/Base.vue"),
+    component: () => import("../pages/base.vue"),
   },
   {
     path: "/about",
