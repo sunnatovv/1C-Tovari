@@ -8,11 +8,11 @@
       </div>
 
       <div class="w-[700px] flex justify-between items-center">
-        <a href="#">Как это работает</a>
-        <a href="#">Инструкции</a>
-        <a href="#">Продукты</a>
-        <a href="#">База знаний </a>
-        <a href="#">О нас</a>
+        <a href="howworks">Как это работает</a>
+        <a href="instruction">Инструкции</a>
+        <a href="products">Продукты</a>
+        <a href="base">База знаний </a>
+        <a href="about">О нас</a>
         <button class="text-white bg-custom-gradient px-5 py-2 rounded-3xl">
           Вход
         </button>
