@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-black">
+  <div class="bg-white">
     <div class="container h-[654px] pt-[150px] flex">
       <div class="w-[646px] py-[85px]">
         <h2
